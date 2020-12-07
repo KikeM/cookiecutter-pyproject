@@ -18,7 +18,7 @@
 
 ```bash
 pip install cookiecutter
-cookiecutter gh:mmngreco/cookiecutter-pyproject
+cookiecutter gh:KikeM/cookiecutter-pyproject
 ```
 
 other way (without prompt):
