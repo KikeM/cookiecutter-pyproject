@@ -10,6 +10,7 @@ pip install git+{{ cookiecutter.project_url }}
 
 ```bash
 git clone {{ cookiecutter.project_url }}
-pip install -e ./{{ cookiecutter.project_name }} -r ./requirements-dev.txt
+cd {{ cookiecutter.project_name }}
+pip install -e . -r requirements-dev.txt
 ```
 
