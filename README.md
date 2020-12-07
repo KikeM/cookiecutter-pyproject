@@ -27,9 +27,9 @@ other way (without prompt):
 cookiecutter --no-input \
     gh:mmngreco/cookiecutter-pyproject \
     year=2020 \
-    project_author=mmngreco \
+    project_author=KikeM \
     project_name=my_lib \
     project_src=my_lib \
-    project_url=https://github.com/mmngreco/my_lib \
+    project_url=https://github.com/KikeM/my_lib \
 
 ```
