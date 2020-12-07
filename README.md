@@ -25,7 +25,7 @@ other way (without prompt):
 
 ```
 cookiecutter --no-input \
-    gh:mmngreco/cookiecutter-pyproject \
+    gh:KikeM/cookiecutter-pyproject \
     year=2020 \
     project_author=KikeM \
     project_name=my_lib \
